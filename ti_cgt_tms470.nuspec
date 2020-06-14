@@ -4,7 +4,7 @@
     <id>ti_cgt_tms470</id>
     <version>18.1.4</version>
     <packageSourceUrl>https://github.com/n3rd4i/ti-cgt-arm.git</packageSourceUrl>
-    <title>ti_cgt_tms470 (Install)</title>
+    <title>ARM-CGT-17_18.1.4.LTS</title>
     <authors>Texas Instruments</authors>
     <projectUrl>http://www.ti.com/tool/download/ARM-CGT-17/18.1.4.LTS</projectUrl>
     <licenseUrl>http://www.ti.com/corp/docs/legal/termsofuse.shtml</licenseUrl>
@@ -12,11 +12,15 @@
     <tags>ti_cgt_tms470 ti cgt tms470</tags>
     <summary>TI Compiler for TMS470 based chips.</summary>
     <description>
+
 Arm® code generation tools -- compiler: ARM-CGT-17_18.1.4.LTS
 
-This is a release of the ARM Code Generation Tools (CGT) containing new enhancements and features. The ARM CGT provides software development tools including the compiler, assembler, and linker, among others, which can be used to develop applications with C / Cplusplus source code for loading and running on ARM core processors.
+This is a release of the ARM Code Generation Tools (CGT) containing new enhancements and features.
+
+The ARM CGT provides software development tools including the compiler, assembler, and linker, among others, which can be used to develop applications with C / Cplusplus source code for loading and running on ARM core processors.
+
     </description>
-    <releaseNotes>https://www.ti.com/tool/download/ARM-CGT-17/18.1.4.LTS#sw-general-information</releaseNotes>
+    <releaseNotes>https://www.ti.com/tool/download/ARM-CGT-17#sw-general-information</releaseNotes>
     </metadata>
     <files>
       <file src="tools\**" target="tools" />
