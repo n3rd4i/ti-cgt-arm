@@ -4,7 +4,7 @@
     <id>ti_cgt_tms470</id>
     <version>18.1.4</version>
     <packageSourceUrl>https://github.com/n3rd4i/ti-cgt-arm.git</packageSourceUrl>
-    <title>ARM-CGT-17_18.1.4.LTS</title>
+    <title>ARM Code Generation Tools (CGT) LTS</title>
     <authors>Texas Instruments</authors>
     <projectUrl>http://www.ti.com/tool/download/ARM-CGT-17/18.1.4.LTS</projectUrl>
     <licenseUrl>http://www.ti.com/corp/docs/legal/termsofuse.shtml</licenseUrl>
